@@ -1,0 +1,16 @@
+.vs/
+*.user
+*.suo
+
+bin/
+obj/
+
+*.cache
+*.log
+*.pdb
+*.dbmdl
+*.opendb
+
+_DebugPublicIP/
+
+*.nupkg
